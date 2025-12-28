@@ -30,7 +30,7 @@ RBAC Security: Least privilege access for service accounts
 
 Clone the repository
 
-git clone https://github.com/yourusername/k8s-notes-app.git
+git clone https://github.com/affarmuhammad052-maker/k8s-notes-app.git
 cd k8s-notes-app
 
 
